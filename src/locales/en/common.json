@@ -1,0 +1,87 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "lang": "العربية",
+        "contact": "Contact Us"
+    },
+    "header": {
+        "head": "FAHAD SALEH AL-NASSER Law Firm for Notarization, Advocacy, and Legal Consultations",
+        "p": "FAHAD SALEH AL-NASSER Law Firm provides all the matters that support and assist you, offering you quality services in innovative ways.",
+        "btn": "Contact Us"
+    },
+    "1section": {
+        "h": "Leading Companies Trust Us in the Field of",
+        "span": "Advocacy",
+        "p": "We provide legal consultations and advocacy services that meet your needs, as FAHAD SALEH AL-NASSER Law Firm saves time and effort on behalf of companies and individuals in collecting money, whether through judicial means or legal settlement."
+    },
+    "rates": {
+        "h": "Why Customers Love",
+        "span": "Working with Us",
+        "p": "Without any doubt, I recommend FAHAD SALEH AL-NASSER Law Firm as one of the best law firms that clients will not hesitate to entrust their work to."
+    },
+    "sevices": {
+        "h": "Check Out",
+        "span": "Our Services",
+        "p": "FAHAD SALEH AL-NASSER Law Firm has a competent team in the field of corporate law, foreign investment, and corporate governance, according to the latest studies, providing all services, among others."
+    },
+    "see_more": {
+        "p": "Learn More ",
+        "a": "Here"
+    },
+    "about_office": {
+        "h": "About",
+        "span": "FAHAD Law Firm",
+        "p": "Any lawyer or legal company can submit a list to our website. Our website is free for lawyers in Egypt."
+    },
+    "our_vision": {
+        "h": "What is",
+        "span": "Our Vision, Mission, and Goal"
+    },
+    "explore": "Explore",
+    "contact-us-footer": {
+        "h": "Stay Connected",
+        "span": "With Us!",
+        "p": "Subscribe to our mailing list to receive the latest updates and offers."
+    },
+    "footer": {
+        "links": "Links",
+        "contact": "Contact Us",
+        "contact-text": "Don't worry anymore, we are always at your service!",
+        "cobyrights": "© 2024 - FAHAD Law Firm. All rights reserved.",
+        "designed_by": "Website designed and developed by"
+    },
+    "about-us": {
+        "h": "Who Are We?",
+        "p": "FAHAD SALEH AL-NASSER Law Firm is a firm for notarization, advocacy, and legal consultations. We provide legal consultations and advocacy services that meet your needs, as FAHAD SALEH AL-NASSER Law Firm saves time and effort on behalf of companies and individuals in collecting money, whether through judicial means or legal settlement. FAHAD SALEH AL-NASSER Law Firm has a competent team in the field of corporate law, foreign investment, and corporate governance, according to the latest studies, providing all services, among others."
+    },
+    "services-page": {
+        "h": "Our Services",
+        "p": "FAHAD SALEH AL-NASSER Law Firm has a competent team in the field of corporate law, foreign investment, and corporate governance, according to the latest studies, providing all services, among others."
+    },
+    "contact-us-page": {
+        "p-green": "Let's Connect",
+        "h": "Stay in Touch with Us",
+        "p": "We are waiting for your inquiry. Don't worry anymore, we are always at your service!"
+    },
+    "placeholders": {
+        "name": "Your Name",
+        "email": "Email",
+        "phone": "Phone Number",
+        "object": "Subject",
+        "message": "Message",
+        "loading": "Loading...",
+        "error": "Error",
+        "send": "Send"
+    },
+    "location": {
+        "h": "Location",
+        "p": "This is our geographical location. You can visit us anytime during our specified working hours."
+    },
+    "service":{
+        "suggestion-services": "Suggested Services",
+        "no-suggestion-services": "No suggested services available."
+    },
+    "no-data": "No data available."
+}
